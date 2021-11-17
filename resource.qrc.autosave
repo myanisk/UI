@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>imgs/phone.png</file>
+        <file>imgs/stats.png</file>
+        <file>imgs/settings.png</file>
+        <file>imgs/cropped-Logo-MobilProtect (1) (1).png</file>
+        <file>imgs/home.png</file>
+    </qresource>
+</RCC>
